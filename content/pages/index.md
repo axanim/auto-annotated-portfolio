@@ -18,9 +18,9 @@ sections:
       OTHER IMPRESSIVE TITLES.
     subtitle: >-
       This is our info—We are sharing it with ya’ll to impress you with all the
-      hard advocating we’ve done against the system. Once you’re impressed, you
-      can join us and we can show you how to use AI to self advocate and kick
-      some serious goals.
+      hard work we’ve done fighting the system. Once you’re impressed, you can
+      join us and we can show you how to use AI to self advocate and kick some
+      serious goals.
     styles:
       self:
         height: auto
