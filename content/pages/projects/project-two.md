@@ -9,7 +9,7 @@ description: >-
   $30K+ debt
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/DylanCL.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
