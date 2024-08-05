@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      WE ARE DISBILITY ADVOCATES, AI ENTHUSIAstS, consultantS and a bunch of
-      other impressive titles.
+      WE ARE DISABILITY ADVOCATES, AI ENTHUSIASTS, CONSULTANTS, AND A BUNCH OF
+      OTHER IMPRESSIVE TITLES.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
