@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Another fun fight
 colors: colors-a
-date: '0002-12-20'
+date: '2024-12-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
