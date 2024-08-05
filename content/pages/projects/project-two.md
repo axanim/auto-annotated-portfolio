@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/DylanCL.png
   altText: Project image
 ---
 In 2019, Dylan faced some serious mental health challenges. But, like a true warrior, he didn't let that stop him. Fast forward to 2020, and Dylan, living with Autism, embarked on a new adventure by relocating to Hobart to pursue a psychology degree. With a passion for Latin and Ancient History, he absolutely smashed his first year, scoring over 90% in those subjects. His brilliance didn't go unnoticed – the university awarded him a free Bachelor of Philosophy to study alongside his psychology degree.
