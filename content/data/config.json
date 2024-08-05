@@ -15,11 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Fights",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
                 "label": "NDIS",
                 "altText": "NDIS Services",
                 "url": "/",
@@ -27,6 +22,11 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Fights",
+                "url": "/projects"
             },
             {
                 "type": "Link",
