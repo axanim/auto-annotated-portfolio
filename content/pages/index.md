@@ -20,7 +20,7 @@ sections:
       This is our info—We are sharing it with everyone to impress you with all
       the hard work we’ve done fighting the system. Once you’re impressed, you
       can contact us and we can show you how to use AI to self advocate, tweak
-      the legal stuff, and together kick some serious system butt.
+      the legal stuff, and together fight for fairness.
     styles:
       self:
         height: auto
