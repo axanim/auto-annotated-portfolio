@@ -17,10 +17,10 @@ sections:
       WE ARE DISABILITY ADVOCATES, AI ENTHUSIASTS, CONSULTANTS, AND A BUNCH OF
       OTHER IMPRESSIVE TITLES.
     subtitle: >-
-      This is our info—We are sharing it with ya’ll to impress you with all the
-      hard work we’ve done fighting the system. Once you’re impressed, you can
-      join us and we can show you how to use AI to self advocate and kick some
-      serious goals.
+      This is our info—We are sharing it with everyone to impress you with all
+      the hard work we’ve done fighting the system. Once you’re impressed, you
+      can contact us and we can show you how to use AI to self advocate, tweak
+      the legal stuff, and together kick some serious system butt.
     styles:
       self:
         height: auto
