@@ -233,6 +233,9 @@ sections:
       - type: Label
         label: Artificial Intelligence (AI)
         url: ''
+      - type: Label
+        label: Machine Learning (ML)
+        url: ''
   - type: DividerSection
     styles:
       self:
