@@ -15,6 +15,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/annette-andersen",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "NDIS",
                 "altText": "NDIS Services",
                 "url": "/",
