@@ -17,10 +17,10 @@ sections:
       WE ARE DISABILITY ADVOCATES, AI ENTHUSIASTS, CONSULTANTS, AND A BUNCH OF
       OTHER IMPRESSIVE TITLES.
     subtitle: >-
-      Get Ready to Revolutionize How You Participate—We’re here to guide you in
-      using NDIS funds productively. With our help, you'll harness the power of
-      AI to advocate for yourself and support each other in our soon to be
-      thriving community.
+      This is our info—We are sharing it with everyone to impress you with all
+      the hard work we’ve done fighting the system. Once you’re impressed, you
+      can contact us and we can show you how to use AI to self advocate, tweak
+      the legal stuff, and together we fight for fairness.
     styles:
       self:
         height: auto
