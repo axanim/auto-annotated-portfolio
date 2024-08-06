@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/axhos.png
   altText: Project image
 ---
 At 13, Axel's journey with the NDIS began with Annette fighting for support for Axel's disabilities - Autism and profound intellectual impairment. His initial plan? A meager $3000, just enough for some reports but no real help. Annette, juggling her business and Axel's needs, faced the heartbreaking decision to relinquish him.
