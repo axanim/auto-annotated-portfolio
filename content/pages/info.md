@@ -215,6 +215,9 @@ sections:
       - type: Label
         label: Disability (Access to Premises Buildings) Standards 2010
         url: ''
+      - type: Label
+        label: Disability Discrimination Act 1992
+        url: ''
   - type: DividerSection
     styles:
       self:
