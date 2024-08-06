@@ -23,10 +23,9 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
+At 13, Axel's journey with the NDIS began with Annette fighting for support for Axel's disabilities - Autism and profound intellectual impairment. His initial plan? A meager $3000, just enough for some reports but no real help. Annette, juggling her business and Axel's needs, faced the heartbreaking decision to relinquish him. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Axel's first Christmas away from home was spent in the hospital with a serious injury, leaving a scar from wrist to finger. Two years later, he returned home with a $360,000 plan but in a dire state – obese and later diagnosed with erythromelalgia, a rare pain condition aptly named 'man on fire syndrome.' Annette believes the separation shattered both his health and her spirit.
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
