@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'JOIN OUR NDIS COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
+title: NDIS
 sections:
   - type: TextSection
     colors: colors-f
