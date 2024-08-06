@@ -62,7 +62,9 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/DALL·E 2024-08-07 09.03.10 - A vibrant and modern scene
+            showing a diverse group of people in a cozy, tech-savvy study space.
+            Some are using laptops and tablets with AI tools assis.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
