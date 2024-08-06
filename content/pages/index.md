@@ -55,7 +55,7 @@ sections:
       seamlessly. Learn how to quickly teach AI about your individual needs and
       ask the right questions and get the best answers from AI.
   - type: CtaSection
-    title: Let's do this
+    title: Boost Your Learning and Communication
     text: >
       GAI can be your study buddy, research assistant, and writing enhancer.
       Whether you're tackling a new subject or crafting an important email, AI
