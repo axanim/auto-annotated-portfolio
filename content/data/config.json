@@ -95,7 +95,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "0481-977-028",
+            "phoneNumber": "",
             "phoneAltText": "",
             "email": "admin@never.org.au",
             "emailAltText": "Never Limited contact email",
