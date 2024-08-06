@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "Hey we are people with disabilities. We were been born and raised in the world, and that’s also where are based. We are free agent, activated activist advocates, ex-this, ex-that, ex-secret agents. When we are not advocating, activating or aggravating, Erin has a cat. Annette has a dog, Annette also has a cat, The Great Catsby\n\nErin \"Brockovich\" M - legislation slay queen\n\n\U0001F680 0427 925 656 \U0001F680\n\n<https://www.linkedin.com/in/erin-mcgrath-521829244/>\n\nAnnette A - access consultant & software AI stuff\n\n\U0001F680 0481 977 028 \U0001F680\n\n<https://www.linkedin.com/in/annette-a-77577a248/>\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/aa_em.png
       altText: Hero image
     styles:
       self:
