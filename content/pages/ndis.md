@@ -11,9 +11,14 @@ sections:
       using NDIS funds productively. With our help, you'll harness the power of
       AI to advocate for yourself and support each other in our soon to be
       thriving community.
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      ### **Your First Steps with Generative AI (GAI)**
+
+
+      We’ll teach you to use GAI tools effectively. Navigate the NDIS, write
+      powerful complaints and submissions, and communicate your support needs
+      seamlessly. Learn how to quickly teach AI about your individual needs and
+      ask the right questions to generate the best answers from AI.
     elementId: ''
     styles:
       self:
