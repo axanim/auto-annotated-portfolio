@@ -50,45 +50,6 @@ sections:
     actions: []
     text: ''
   - type: CtaSection
-    title: Boost Your Learning and Communication
-    text: >
-      GAI can be your study buddy, research assistant, and writing enhancer.
-      Whether you're tackling a new subject or crafting an important email, AI
-      is here to help you every step of the way.
-    actions:
-      - type: Button
-        label: I'm in
-        altText: >-
-          Enhance Your Learning - Discover how AI can improve your studies and
-          communication skills.
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: CtaSection
     title: Collaborate and Thrive Together
     text: >
       Our vision is a virtual workplace where everyone has a role, no matter how
