@@ -213,7 +213,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: Disability (Access to Premises Buildings) Standards
+        label: Disability (Access to Premises Buildings) Standards 2010
         url: ''
   - type: DividerSection
     styles:
