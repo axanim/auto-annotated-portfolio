@@ -4,7 +4,9 @@ title: A very nasty system fight
 colors: colors-a
 date: '2024-06-08'
 client: Amazing Axel
-description: ''
+description: >-
+  Annette came to NDIS desperate for support for Axel. Axel ended up with a pain
+  condition that makes his hands and legs feel like they are on fire.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
