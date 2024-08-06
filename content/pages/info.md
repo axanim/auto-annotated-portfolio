@@ -242,6 +242,9 @@ sections:
       - type: Label
         label: Cryptocurrency
         url: ''
+      - type: Label
+        label: Peer Mental Health
+        url: ''
   - type: DividerSection
     styles:
       self:
