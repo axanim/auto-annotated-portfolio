@@ -99,7 +99,7 @@ sections:
       are valued and utilized.
     actions:
       - type: Button
-        label: Try it now
+        label: I'm in
         altText: ''
         url: /
         showIcon: true
