@@ -96,7 +96,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "0481-977-028",
-            "phoneAltText": "",
+            "phoneAltText": "Annette's phone number",
             "email": "admin@never.org.au",
             "emailAltText": "Never Limited contact email",
             "address": "",
