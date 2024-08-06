@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "NDIS",
                 "altText": "NDIS Services",
-                "url": "/",
+                "url": "/NDIS",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
