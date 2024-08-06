@@ -10,6 +10,11 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Peeps",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
                 "label": "NDIS",
                 "altText": "NDIS Services",
                 "url": "/",
@@ -17,11 +22,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Peeps",
-                "url": "/info"
             },
             {
                 "type": "Link",
