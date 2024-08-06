@@ -53,7 +53,7 @@ sections:
     title: I'm empowered
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: I'm Smart
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
@@ -81,7 +81,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: I'm Fast
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
