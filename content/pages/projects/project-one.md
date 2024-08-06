@@ -5,9 +5,23 @@ colors: colors-a
 date: '2024-06-08'
 client: Amazing Axel
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  At 13, Axel's journey with the NDIS began with Annette fighting for support
+  for Axel's disabilities - Autism and profound intellectual impairment. His
+  initial plan? A meager $3000, just enough for some reports but no real help.
+  Annette, juggling her business and Axel's needs, faced the heartbreaking
+  decision to relinquish him. Axel's first Christmas away from home was spent in
+  the hospital with a serious injury, leaving a scar from wrist to finger. Two
+  years later, he returned home with a $360,000 plan but in a dire state – obese
+  and later diagnosed with erythromelalgia, a rare pain condition aptly named
+  'man on fire syndrome.' Annette believes the separation shattered both his
+  health and her spirit. Years of relentless battles have taken their toll, but
+  today, Axel has a $550,000 plan. The fight is far from over as they continue
+  to seek appropriate Specialist Disability Accommodation and the support needed
+  to avoid restrictive practices. Despite the significant pain he endures, their
+  focus remains on creating an environment that minimizes his suffering and
+  maximizes his quality of life. Annette sometimes struggles to find the
+  strength and resilience shine through as she continues to advocate for Axel's
+  needs, proving that the fight for a better system is worth every battle.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
