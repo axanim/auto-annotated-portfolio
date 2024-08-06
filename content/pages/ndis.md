@@ -17,8 +17,8 @@ sections:
 
       We’ll teach you to use GAI tools effectively. Navigate the NDIS, write
       powerful complaints and submissions, and communicate your support needs
-      seamlessly. Learn how to quickly teach AI about your individual needs and
-      ask the right questions to generate the best answers from AI.
+      effortlessly. Learn how to quickly teach AI about your individual needs
+      and ask the right questions to generate the best answers from AI.
     elementId: ''
     styles:
       self:
