@@ -93,9 +93,10 @@ sections:
         justifyContent: flex-start
   - type: CtaSection
     title: Collaborate and Thrive Together
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Our vision is a virtual workplace where everyone has a role, no matter how
+      small. We support each other, learn together, and ensure everyone’s skills
+      are valued and utilized.
     actions:
       - type: Button
         label: Try it now
