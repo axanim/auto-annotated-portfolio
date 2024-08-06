@@ -236,6 +236,9 @@ sections:
       - type: Label
         label: Machine Learning (ML)
         url: ''
+      - type: Label
+        label: Digital Transformation
+        url: ''
   - type: DividerSection
     styles:
       self:
