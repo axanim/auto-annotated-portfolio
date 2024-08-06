@@ -228,6 +228,9 @@ sections:
         label: National Construction Code (NCC)
         url: ''
       - type: Label
+        label: Cloud Infrastructure
+        url: ''
+      - type: Label
         label: Artificial Intelligence (AI)
         url: ''
   - type: DividerSection
