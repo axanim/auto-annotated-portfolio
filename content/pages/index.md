@@ -15,10 +15,9 @@ sections:
     backgroundSize: full
     title: 'JOIN OUR COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
     subtitle: >-
-      This is our info—We are sharing it with everyone to impress you with all
-      the hard work we’ve done fighting the system. Once you’re impressed, you
-      can contact us and we can show you how to use AI to self advocate, tweak
-      the legal stuff, and together we fight for fairness.
+      Get Ready to Revolutionize How You Participate—We’re here to guide you in
+      using NDIS funds creatively. With our help, you'll harness the power of AI
+      to advocate for yourself and support each other in our thriving community.
     styles:
       self:
         height: auto
