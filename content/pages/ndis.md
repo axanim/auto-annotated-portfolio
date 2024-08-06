@@ -73,7 +73,10 @@ sections:
             Bright motivational posters read 'I'm Smart' and 'Boost Your
             Learning and Communication.' The environment is collaborative,
             innovative, and friendly.
-          caption: Caption of the image
+          caption: >-
+            Boost Your Learning and Communication: Discover how AI can enhance
+            your study experience and make complex tasks easier. Join our
+            community and unlock your potential!
           elementId: ''
         actions:
           - type: Button
