@@ -55,10 +55,11 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: Boost Your Learning and Communication
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+
+          GAI can be your study buddy, research assistant, and writing enhancer.
+          Whether you're tackling a new subject or crafting an important email,
+          AI is here to help you every step of the way.
         featuredImage:
           type: ImageBlock
           url: >-
