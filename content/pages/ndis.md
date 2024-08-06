@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: I'm Smart
-        subtitle: ''
+        subtitle: Boost Your Learning and Communication
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
