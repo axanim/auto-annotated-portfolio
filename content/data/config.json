@@ -99,7 +99,7 @@
             "phoneAltText": "Annette's phone number",
             "email": "annette.andersen@never.org.au",
             "emailAltText": "Annette's email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
