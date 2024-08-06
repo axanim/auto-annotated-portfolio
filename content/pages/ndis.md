@@ -4,7 +4,7 @@ title: NDIS
 sections:
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: 'JOIN OUR NDIS COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
     subtitle: >-
       Get Ready to Revolutionize How You Participate—We’re here to guide you in
