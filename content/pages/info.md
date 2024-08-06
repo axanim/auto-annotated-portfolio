@@ -239,6 +239,9 @@ sections:
       - type: Label
         label: Digital Transformation
         url: ''
+      - type: Label
+        label: Cryptocurrency
+        url: ''
   - type: DividerSection
     styles:
       self:
