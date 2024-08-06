@@ -56,7 +56,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'We worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
