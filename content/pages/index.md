@@ -100,7 +100,9 @@ sections:
     actions:
       - type: Button
         label: I'm in
-        altText: ''
+        altText: >-
+          Join Our Community - Be part of our supportive virtual workplace and
+          thrive together.
         url: /
         showIcon: true
         icon: arrowRight
