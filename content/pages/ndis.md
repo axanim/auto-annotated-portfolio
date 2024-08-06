@@ -62,10 +62,7 @@ sections:
           AI is here to help you every step of the way.
         featuredImage:
           type: ImageBlock
-          url: >-
-            /images/DALL·E 2024-08-07 09.03.10 - A vibrant and modern scene
-            showing a diverse group of people in a cozy, tech-savvy study space.
-            Some are using laptops and tablets with AI tools assis.webp
+          url: /images/Screenshot 2024-08-07 092802.png
           altText: >-
             A vibrant and modern study space with a diverse group of people
             using laptops and tablets with AI tools. One person is smiling while
