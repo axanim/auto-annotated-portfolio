@@ -63,7 +63,9 @@ sections:
     actions:
       - type: Button
         label: I'm in
-        altText: ''
+        altText: >-
+          Enhance Your Learning - Discover how AI can improve your studies and
+          communication skills.
         url: /
         showIcon: true
         icon: arrowRight
