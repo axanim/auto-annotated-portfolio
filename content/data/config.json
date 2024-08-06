@@ -5,12 +5,12 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Advocacy",
+        "title": "Never Limited",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Peeps",
                 "url": "/info"
             },
             {
