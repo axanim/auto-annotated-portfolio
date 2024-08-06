@@ -203,8 +203,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Netlify
-      - type: Label
         label: Pancakes
       - type: Label
         label: C++
