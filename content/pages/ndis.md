@@ -6,7 +6,11 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'JOIN OUR NDIS COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
-    subtitle: The section subtitle
+    subtitle: >-
+      Get Ready to Revolutionize How You Participate—We’re here to guide you in
+      using NDIS funds productively. With our help, you'll harness the power of
+      AI to advocate for yourself and support each other in our soon to be
+      thriving community.
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
