@@ -9,7 +9,7 @@ description: >-
   condition that makes his hands and legs feel like they are on fire.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/axhos.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
