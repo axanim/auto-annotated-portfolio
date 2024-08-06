@@ -49,51 +49,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-  - type: CtaSection
-    title: Collaborate and Thrive Together
-    text: >
-      Our vision is a virtual workplace where everyone has a role, no matter how
-      small. We support each other, learn together, and ensure everyone’s skills
-      are valued and utilized.
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
