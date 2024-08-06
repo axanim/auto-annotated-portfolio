@@ -203,8 +203,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
       - type: Label
         label: National Disability Insurance Scheme Act 2013
@@ -215,6 +213,8 @@ sections:
       - type: Label
         label: Disability (Access to Premises Buildings) Standards 2010
         url: ''
+      - type: Label
+        label: Pancakes
       - type: Label
         label: Disability Discrimination Act 1992
         url: ''
