@@ -56,9 +56,15 @@ sections:
       ask the right questions and get the best answers from AI.
   - type: CtaSection
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      ###### **Boost Your Learning and Communication**
+
+
+
+      GAI can be your study buddy, research assistant, and writing enhancer.
+      Whether you're tackling a new subject or crafting an important email, AI
+      is here to help you every step of the way.
+
     actions:
       - type: Button
         label: I'm in
