@@ -218,6 +218,9 @@ sections:
       - type: Label
         label: Disability Discrimination Act 1992
         url: ''
+      - type: Label
+        label: Social Security Act 1991
+        url: ''
   - type: DividerSection
     styles:
       self:
