@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A very nasty system fight
 colors: colors-a
-date: '0002-08-06'
+date: '2024-08-06'
 client: Amazing Axel
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
