@@ -17,8 +17,8 @@ sections:
     subtitle: >-
       Get Ready to Revolutionize How You Participate—We’re here to guide you in
       using NDIS funds productively. With our help, you'll harness the power of
-      AI to advocate for yourself and support each other in our thriving
-      community.
+      AI to advocate for yourself and support each other in our soon to be
+      thriving community.
     styles:
       self:
         height: auto
