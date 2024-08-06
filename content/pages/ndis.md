@@ -65,7 +65,14 @@ sections:
             /images/DALL·E 2024-08-07 09.03.10 - A vibrant and modern scene
             showing a diverse group of people in a cozy, tech-savvy study space.
             Some are using laptops and tablets with AI tools assis.webp
-          altText: Item image
+          altText: >-
+            A vibrant and modern study space with a diverse group of people
+            using laptops and tablets with AI tools. One person is smiling while
+            an AI assistant helps with writing on a large screen. Another person
+            is reading a book with AI-generated summaries displayed on a tablet.
+            Bright motivational posters read 'I'm Smart' and 'Boost Your
+            Learning and Communication.' The environment is collaborative,
+            innovative, and friendly.
           caption: Caption of the image
           elementId: ''
         actions:
