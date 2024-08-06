@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      WE ARE DISABILITY ADVOCATES, AI ENTHUSIASTS, CONSULTANTS, AND A BUNCH OF
-      OTHER IMPRESSIVE TITLES.
+    title: 'JOIN OUR COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
     subtitle: >-
       This is our info—We are sharing it with everyone to impress you with all
       the hard work we’ve done fighting the system. Once you’re impressed, you
