@@ -46,14 +46,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
-      ### **Your First Steps with Generative AI (GAI)**
-
-
-      We’ll teach you to use GAI tools effectively. Navigate the NDIS, write
-      powerful complaints and submissions, and communicate your support needs
-      seamlessly. Learn how to quickly teach AI about your individual needs and
-      ask the right questions to generate the best answers from AI.
+    text: ''
   - type: CtaSection
     title: Boost Your Learning and Communication
     text: >
