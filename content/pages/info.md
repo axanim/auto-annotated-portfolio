@@ -20,7 +20,7 @@ sections:
       cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
     media:
       type: ImageBlock
-      url: /images/aa_em.png
+      url: /images/Annette Andersen by Oh Tilly 001.jpg
       altText: Hero image
     styles:
       self:
