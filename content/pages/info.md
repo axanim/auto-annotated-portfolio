@@ -152,7 +152,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Democracy First
             url: 'https://discord.com/'
         styles:
           self:
