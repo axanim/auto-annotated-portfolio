@@ -193,8 +193,8 @@ sections:
         - type: TextareaFormControl
           name: message
           label: 'Tell me about your hopes, dreams and aspirations'
-          hideLabel: true
-          placeholder: Tell me about your project
+          hideLabel: false
+          placeholder: ''
           width: full
           isRequired: true
         - type: CheckboxFormControl
