@@ -83,7 +83,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:admin@never.org.au",
-                "altText": ""
+                "altText": "send email to admin @ never.org.au"
             },
             {
                 "type": "Link",
