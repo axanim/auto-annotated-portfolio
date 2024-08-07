@@ -326,7 +326,7 @@ sections:
 
           **1990-2008**
 
-          *   database tech stuff @ big kahuna companie
+          *   database tech stuff @ big kahuna companies
 
         styles:
           self:
