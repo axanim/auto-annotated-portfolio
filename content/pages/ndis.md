@@ -81,8 +81,10 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
-            altText: ''
+            label: I'm in
+            altText: >-
+              Enhance Your Learning - Discover how AI can improve your studies
+              and communication skills.
             url: /
             showIcon: true
             icon: arrowRight
@@ -130,9 +132,9 @@ sections:
         title: I'm Focused
         subtitle: Emotional and Physical Support with AI
         text: >
-          AI takes the stress out of complex processes. If you find the process
-          emotionally deregulating or have difficulty typing, AI does most of
-          the work for you—just ask the right question.
+          AI takes the stress out of complex processes. If you find some
+          communications emotionally deregulating or have difficulty typing or
+          focusing, AI does a lot of work for you—just ask the right question.
         featuredImage:
           type: ImageBlock
           url: >-
