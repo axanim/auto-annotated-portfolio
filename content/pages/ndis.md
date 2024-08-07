@@ -134,7 +134,9 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/DALL·E 2024-08-07 17.38.51 - A serene and modern workspace
+            with a diverse group of individuals using AI tools on laptops and
+            tablets. One person interacts peacefully with an AI as.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
