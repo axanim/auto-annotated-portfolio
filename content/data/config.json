@@ -93,7 +93,7 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
+                "label": "Privacy",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
             }
