@@ -97,8 +97,8 @@ sections:
         title: I'm Busy
         subtitle: Collaborate and Thrive Together
         text: >
-          Our vision is a virtual workplace where everyone has a role, no matter
-          how small. We support each other, learn together, and ensure
+          Our vision is a virtual workplace where everyone has a role, tailored
+          to suit them. We support each other, learn together, and ensure
           everyone’s skills are valued and utilized.
         featuredImage:
           type: ImageBlock
