@@ -96,10 +96,10 @@ sections:
       - type: FeaturedItem
         title: I'm Busy
         subtitle: Collaborate and Thrive Together
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Our vision is a virtual workplace where everyone has a role, no matter
+          how small. We support each other, learn together, and ensure
+          everyone’s skills are valued and utilized.
         featuredImage:
           type: ImageBlock
           url: >-
