@@ -316,7 +316,7 @@ sections:
 
           *   grad cert software engineering (AI) @ torrens
           *   access performance solutions @ inclusion access
-          *   NDIS battles & recovery @ code me out of this loop
+          *   NDIS battles & recovery @ get me out of this loop
 
           **2015-2018**
 
