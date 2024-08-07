@@ -315,6 +315,7 @@ sections:
         text: |+
           **current**
 
+          *   recovery coaching & support @ never
           *   grad cert software engineering (AI) @ torrens
           *   access performance solutions @ inclusion access
           *   NDIS battles & recovery @ get me out of this loop
