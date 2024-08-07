@@ -100,7 +100,10 @@ sections:
             video call. Bright motivational posters read 'I'm Busy' and
             'Collaborate and Thrive Together.' The environment is active,
             creative, and showcases teamwork and innovation.
-          caption: Caption of the image
+          caption: >-
+            Collaborate and Thrive Together: Join our vibrant community where
+            creativity and teamwork flourish. Learn from each other and thrive
+            together with AI tools!
           elementId: ''
         actions:
           - type: Button
