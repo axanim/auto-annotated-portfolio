@@ -8,11 +8,15 @@ sections:
     title: 'JOIN OUR NDIS COMMUNITY: INNOVATIVE PARTICIPATION AND AI EMPOWERMENT'
     subtitle: >-
       Get Ready to Revolutionize How You Participate—We’re here to guide you in
-      using NDIS funds productively. With our help, you'll harness the power of
-      AI to advocate for yourself and support each other in our soon to be
-      thriving community.
+      using NDIS funds productively. You'll harness the power of AI to advocate
+      for yourself and support each other in our thriving community.
     text: >
       ### **Your First Steps with Generative AI (GAI)**
+
+
+      Using NDIS innovative community participation you will get access to
+      powerful AI tools and Google Workspace. Individual non face to face
+      support and psychosocial recovery coaching available.
 
 
       We’ll teach you to use GAI tools effectively. Navigate the NDIS, write
@@ -72,7 +76,7 @@ sections:
             altText: >-
               Enhance Your Learning - Discover how AI can improve your studies
               and communication skills.
-            url: /
+            url: /#contact
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -96,8 +100,17 @@ sections:
             /images/DALL·E 2024-08-07 17.26.23 - A lively and modern scene
             showing a diverse group of people in a collaborative workspace. Some
             are using laptops and tablets with AI tools for various.jpg.jpg
-          altText: Item image
-          caption: Caption of the image
+          altText: >-
+            A lively and modern collaborative workspace with a diverse group of
+            people using laptops and tablets with AI tools. One person is
+            brainstorming ideas on a digital whiteboard, while another is in a
+            video call. Bright motivational posters read 'I'm Busy' and
+            'Collaborate and Thrive Together.' The environment is active,
+            creative, and showcases teamwork and innovation.
+          caption: >-
+            Collaborate and Thrive Together: Join our vibrant community where
+            creativity and teamwork flourish. Learn from each other and thrive
+            together with AI tools!
           elementId: ''
         actions:
           - type: Button
@@ -128,8 +141,18 @@ sections:
             /images/DALL·E 2024-08-07 17.38.51 - A serene and modern workspace
             with a diverse group of individuals using AI tools on laptops and
             tablets. One person interacts peacefully with an AI as.jpg
-          altText: Item image
-          caption: Caption of the image
+          altText: >-
+            A serene and modern workspace with diverse individuals using AI
+            tools on laptops and tablets. One person interacts peacefully with
+            an AI assistant on a large screen, while another follows an
+            AI-generated guide on a laptop. Bright motivational posters read
+            'I'm Focused' and 'Emotional and Physical Support with AI.' The
+            environment is calm, supportive, and innovative, emphasizing
+            well-being and productivity.
+          caption: >-
+            Emotional and Physical Support with AI: Let AI handle complex tasks,
+            reducing stress and providing guidance. Join our supportive
+            community and stay focused on your goals!
           elementId: ''
         actions:
           - type: Button
@@ -209,7 +232,7 @@ sections:
           textAlign: left
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
