@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "Hey we are people with disabilities. We were been born and raised in the world, and that’s also where are based. We are free agent, activated activist advocates, ex-this, ex-that, ex-secret agents. When we are not advocating, activating or aggravating, Erin has a cat. Annette has a dog, Annette also has a cat, The Great Catsby\n\nErin \"Brockovich\" M - legislation slay queen\n\n\U0001F680 0427 925 656 \U0001F680\n\n<https://www.linkedin.com/in/erin-mcgrath-521829244/>\n\nAnnette A - access consultant & software AI stuff\n\n\U0001F680 0481 977 028 \U0001F680\n\n<https://www.linkedin.com/in/annette-a-77577a248/>\n"
+    text: "Hey we are people with disabilities. We were been born and raised in the world, and that’s also where we are based. We are free agent, activated activist advocates, ex-this, ex-that, ex-secret agents. When we are not advocating, activating or aggravating, Erin has a cat. Annette has a dog, Annette also has a cat, The Great Catsby\n\nErin \"Brockovich\" M - legislation slay queen\n\n\U0001F680 0427 925 656 \U0001F680\n\n<https://www.linkedin.com/in/erin-mcgrath-521829244/>\n\nAnnette A - access consultant & software AI stuff\n\n\U0001F680 0481 977 028 \U0001F680\n\n<https://www.linkedin.com/in/annette-a-77577a248/>\n"
     media:
       type: ImageBlock
       url: /images/aa_em.png
@@ -56,7 +56,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'We worked with these folks:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
@@ -203,21 +203,48 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: C++
       - type: Label
-        label: React
+        label: National Disability Insurance Scheme Act 2013
+        url: ''
       - type: Label
-        label: Microsoft Office
+        label: Python
+        url: ''
       - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
+        label: Disability (Access to Premises Buildings) Standards 2010
+        url: ''
       - type: Label
         label: Pancakes
       - type: Label
-        label: C++
+        label: Disability Discrimination Act 1992
+        url: ''
       - type: Label
-        label: Swift
+        label: Social Security Act 1991
+        url: ''
+      - type: Label
+        label: Performance Solutions
+        url: ''
+      - type: Label
+        label: National Construction Code (NCC)
+        url: ''
+      - type: Label
+        label: Cloud Infrastructure
+        url: ''
+      - type: Label
+        label: Artificial Intelligence (AI)
+        url: ''
+      - type: Label
+        label: Machine Learning (ML)
+        url: ''
+      - type: Label
+        label: Digital Transformation
+        url: ''
+      - type: Label
+        label: Cryptocurrency
+        url: ''
+      - type: Label
+        label: Peer Mental Health
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -252,27 +279,28 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
+        subtitle: 'Erin:'
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   advocacy and support @ never
 
           **2018-2021**
 
-          * fullstack at this startup
+          *   fullstack at this startup
 
           **2015**
 
-          * senior front-end at this place
+          *   senior front-end at this place
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at a big company
 
           **2011**
 
-          * flipping burgers
+          *   flipping burgers
+
         styles:
           self:
             textAlign: left
@@ -282,19 +310,26 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
+        subtitle: 'Annette:'
+        text: |+
+          **current**
+
+          *   grad cert software engineering (AI) @ torrens
+          *   access performance solutions @ inclusion access
+          *   NDIS battles & recovery @ get me out of this loop
+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   real estate with tech twist
 
-          **2014**
+          **2008-2015**
 
-          * react certificate somewhere
+          *   kids & recovery
 
-          **2011**
+          **1990-2008**
 
-          * my highschool
+          *   database tech stuff @ big kahuna companies
+
         styles:
           self:
             textAlign: left
