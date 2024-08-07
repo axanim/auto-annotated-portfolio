@@ -65,7 +65,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "altText": "altText of the image",
+            "altText": "The \"Never Limited\" logo features a vibrant, abstract human figure with outstretched arms, symbolizing empowerment and inclusivity. Surrounding the figure are colorful, interconnected nodes and lines, representing community support and innovation. The design is dynamic and eye-catching, reflecting a spirit of progress and unity. The color palette includes shades of blue, orange, pink, and green, creating a lively and inspiring visual.",
             "caption": "Caption of the image",
             "elementId": "",
             "url": "/images/NL Logo trans.png"
