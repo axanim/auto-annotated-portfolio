@@ -94,7 +94,7 @@
             {
                 "type": "Link",
                 "label": "Privacy",
-                "url": "https://github.com/netlify-templates",
+                "url": "/privacy",
                 "altText": "Netlify templates"
             }
         ],
