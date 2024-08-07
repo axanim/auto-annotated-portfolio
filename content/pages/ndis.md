@@ -106,7 +106,7 @@ sections:
           url: >-
             /images/DALL·E 2024-08-07 17.26.23 - A lively and modern scene
             showing a diverse group of people in a collaborative workspace. Some
-            are using laptops and tablets with AI tools for various.webp
+            are using laptops and tablets with AI tools for various.jpg.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
