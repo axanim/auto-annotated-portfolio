@@ -194,7 +194,7 @@ sections:
           name: message
           label: 'Tell me about your hopes, dreams and aspirations'
           hideLabel: false
-          placeholder: 'Tell me about your hopes, dreams and aspirations'
+          placeholder: ''
           width: full
           isRequired: true
         - type: CheckboxFormControl
