@@ -315,6 +315,8 @@ sections:
           **current**
 
           *   grad cert software engineering (AI)
+          *   access performance solutions @ inclusion access
+          *   NDIS battles
 
           **2015-2018**
 
