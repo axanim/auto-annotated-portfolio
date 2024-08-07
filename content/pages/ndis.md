@@ -65,7 +65,7 @@ sections:
           url: >-
             /images/DALL·E 2024-08-07 09.03.10 - A vibrant and modern scene
             showing a diverse group of people in a cozy, tech-savvy study space.
-            Some are using laptops and tablets with AI tools assis.webp
+            Some are using laptops and tablets with AI tools assis.jpg
           altText: >-
             A vibrant and modern study space with a diverse group of people
             using laptops and tablets with AI tools. One person is smiling while
