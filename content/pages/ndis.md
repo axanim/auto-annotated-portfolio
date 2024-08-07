@@ -192,7 +192,7 @@ sections:
           isRequired: 'true'
         - type: TextareaFormControl
           name: message
-          label: Tell me about your needs
+          label: 'Tell me about your hopes, dreams and aspirations'
           hideLabel: true
           placeholder: Tell me about your project
           width: full
