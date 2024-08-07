@@ -112,7 +112,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: I'm in
             altText: ''
             url: /
             showIcon: true
