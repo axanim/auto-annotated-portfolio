@@ -136,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/company/never-org-au'
         styles:
           self:
             textAlign: left
