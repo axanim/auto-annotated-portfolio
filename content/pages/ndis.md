@@ -136,7 +136,7 @@ sections:
           url: >-
             /images/DALL·E 2024-08-07 17.38.51 - A serene and modern workspace
             with a diverse group of individuals using AI tools on laptops and
-            tablets. One person interacts peacefully with an AI as.webp
+            tablets. One person interacts peacefully with an AI as.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
