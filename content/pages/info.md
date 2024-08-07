@@ -153,7 +153,7 @@ sections:
         actions:
           - type: Link
             label: Democracy First
-            url: 'https://discord.com/'
+            url: 'https://democracyfirst.org.au/maribyrnong/'
         styles:
           self:
             textAlign: left
