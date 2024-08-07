@@ -76,7 +76,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/privacy",
+                "url": "/home",
                 "altText": ""
             },
             {
