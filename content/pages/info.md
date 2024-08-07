@@ -145,6 +145,7 @@ sections:
           - type: Link
             label: CodePen
             url: 'https://codepen.io/team/nevernever'
+            altText: Link to codepen for team nevernever
         styles:
           self:
             textAlign: left
