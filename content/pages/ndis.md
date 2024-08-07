@@ -143,7 +143,9 @@ sections:
         actions:
           - type: Button
             label: I'm in
-            altText: ''
+            altText: >-
+              Stress-Free Assistance - Let AI help you with complex tasks and
+              reduce emotional stress.
             url: /
             showIcon: true
             icon: arrowRight
