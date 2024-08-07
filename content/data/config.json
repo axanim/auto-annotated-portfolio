@@ -65,9 +65,10 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "altText": "altText of the image",
+            "altText": "The \"Never Limited\" logo features a vibrant, abstract human figure with outstretched arms, symbolizing empowerment and inclusivity. Surrounding the figure are colorful, interconnected nodes and lines, representing community support and innovation. The design is dynamic and eye-catching, reflecting a spirit of progress and unity. The color palette includes shades of blue, orange, pink, and green, creating a lively and inspiring visual.",
             "caption": "Caption of the image",
-            "elementId": ""
+            "elementId": "",
+            "url": "/images/NL Logo trans.png"
         }
     },
     "footer": {
@@ -75,15 +76,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "Home",
+                "url": "/home",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:admin@never.org.au",
-                "altText": ""
+                "altText": "contact admin@never.org.au by email"
             },
             {
                 "type": "Link",
@@ -93,9 +94,9 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "Privacy",
+                "url": "/privacy",
+                "altText": "Never Limited Privacy Policy"
             }
         ],
         "contacts": {
