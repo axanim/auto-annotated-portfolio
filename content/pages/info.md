@@ -311,18 +311,23 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
+        text: |+
+          **current**
+
+          *   grad cert software engineering (AI)
+
           **2015-2018**
 
-          * ba computer sciense at a semi fancy school
+          *   real estate with tech twist
 
           **2014**
 
-          * react certificate somewhere
+          *   react certificate somewhere
 
-          **2011**
+          **1990-2008**
 
-          * my highschool
+          *   database tech stuff @ big kahuna companie
+
         styles:
           self:
             textAlign: left
