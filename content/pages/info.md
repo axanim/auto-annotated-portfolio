@@ -320,9 +320,9 @@ sections:
 
           *   real estate with tech twist
 
-          **2014**
+          **2008-2015**
 
-          *   react certificate somewhere
+          *   kids & recovery
 
           **1990-2008**
 
