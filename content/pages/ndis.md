@@ -14,6 +14,11 @@ sections:
       ### **Your First Steps with Generative AI (GAI)**
 
 
+      Using NDIS innovative community participation you will get access to
+      powerful AI tools and Google Workspace. Individual non face to face
+      support and psychosocial recovery coaching available.
+
+
       We’ll teach you to use GAI tools effectively. Navigate the NDIS, write
       powerful complaints and submissions, and communicate your support needs
       effortlessly. Learn how to quickly teach AI about your individual needs
