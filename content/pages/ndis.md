@@ -127,10 +127,10 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: Emotional and Physical Support with AI
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          AI takes the stress out of complex processes. If you find the process
+          emotionally deregulating or have difficulty typing, AI does most of
+          the work for you—just ask the right question.
         featuredImage:
           type: ImageBlock
           url: >-
