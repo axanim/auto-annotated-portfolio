@@ -67,7 +67,8 @@
             "type": "ImageBlock",
             "altText": "altText of the image",
             "caption": "Caption of the image",
-            "elementId": ""
+            "elementId": "",
+            "url": "/images/NL Logo.jpg"
         }
     },
     "footer": {
