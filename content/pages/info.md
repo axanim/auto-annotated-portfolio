@@ -154,6 +154,7 @@ sections:
           - type: Link
             label: Democracy First
             url: 'https://democracyfirst.org.au/maribyrnong/'
+            altText: Link to Democracy First website
         styles:
           self:
             textAlign: left
