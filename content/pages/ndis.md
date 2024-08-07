@@ -149,7 +149,10 @@ sections:
             'I'm Focused' and 'Emotional and Physical Support with AI.' The
             environment is calm, supportive, and innovative, emphasizing
             well-being and productivity.
-          caption: Caption of the image
+          caption: >-
+            Emotional and Physical Support with AI: Let AI handle complex tasks,
+            reducing stress and providing guidance. Join our supportive
+            community and stay focused on your goals!
           elementId: ''
         actions:
           - type: Button
