@@ -141,7 +141,14 @@ sections:
             /images/DALL·E 2024-08-07 17.38.51 - A serene and modern workspace
             with a diverse group of individuals using AI tools on laptops and
             tablets. One person interacts peacefully with an AI as.jpg
-          altText: Item image
+          altText: >-
+            A serene and modern workspace with diverse individuals using AI
+            tools on laptops and tablets. One person interacts peacefully with
+            an AI assistant on a large screen, while another follows an
+            AI-generated guide on a laptop. Bright motivational posters read
+            'I'm Focused' and 'Emotional and Physical Support with AI.' The
+            environment is calm, supportive, and innovative, emphasizing
+            well-being and productivity.
           caption: Caption of the image
           elementId: ''
         actions:
