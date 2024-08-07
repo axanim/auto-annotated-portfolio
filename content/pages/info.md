@@ -264,7 +264,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [admin@never.org.au](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
