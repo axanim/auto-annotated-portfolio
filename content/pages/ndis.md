@@ -232,7 +232,7 @@ sections:
           textAlign: left
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
