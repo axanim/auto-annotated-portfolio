@@ -98,7 +98,8 @@ sections:
         subtitle: Collaborate and Thrive Together
         text: >
           Our vision is a virtual workplace where everyone has a role, tailored
-          to suit them. We support each other, learn together, and ensure
+          to suit them. We support each other, maybe get a business going or
+          hands on training to help find the job of your dreams, we ensure
           everyone’s skills are valued and utilized.
         featuredImage:
           type: ImageBlock
