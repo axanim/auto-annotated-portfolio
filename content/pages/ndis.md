@@ -76,7 +76,7 @@ sections:
             altText: >-
               Enhance Your Learning - Discover how AI can improve your studies
               and communication skills.
-            url: /
+            url: /#Contact
             showIcon: true
             icon: arrowRight
             iconPosition: right
