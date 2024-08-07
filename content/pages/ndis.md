@@ -93,7 +93,13 @@ sections:
             /images/DALL·E 2024-08-07 17.26.23 - A lively and modern scene
             showing a diverse group of people in a collaborative workspace. Some
             are using laptops and tablets with AI tools for various.jpg.jpg
-          altText: Item image
+          altText: >-
+            A lively and modern collaborative workspace with a diverse group of
+            people using laptops and tablets with AI tools. One person is
+            brainstorming ideas on a digital whiteboard, while another is in a
+            video call. Bright motivational posters read 'I'm Busy' and
+            'Collaborate and Thrive Together.' The environment is active,
+            creative, and showcases teamwork and innovation.
           caption: Caption of the image
           elementId: ''
         actions:
