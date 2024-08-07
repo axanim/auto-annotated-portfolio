@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/NL Logo.jpg",
+    "favicon": "/images/favicon.ico",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
