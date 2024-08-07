@@ -65,7 +65,7 @@ sections:
           url: >-
             /images/DALL·E 2024-08-07 09.03.10 - A vibrant and modern scene
             showing a diverse group of people in a cozy, tech-savvy study space.
-            Some are using laptops and tablets with AI tools assis.webp
+            Some are using laptops and tablets with AI tools assis.jpg
           altText: >-
             A vibrant and modern study space with a diverse group of people
             using laptops and tablets with AI tools. One person is smiling while
@@ -94,23 +94,28 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Fast
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: I'm Busy
+        subtitle: Collaborate and Thrive Together
+        text: >
+          Our vision is a virtual workplace where everyone has a role, tailored
+          to suit them. We support each other, maybe get a business going or
+          hands on training to help find the job of your dreams, we ensure
+          everyone’s skills are valued and utilized.
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/DALL·E 2024-08-07 17.26.23 - A lively and modern scene
+            showing a diverse group of people in a collaborative workspace. Some
+            are using laptops and tablets with AI tools for various.jpg.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
         actions:
           - type: Button
-            label: ''
-            altText: ''
+            label: I'm in
+            altText: >-
+              Join Our Community - Be part of our supportive virtual workplace
+              and thrive together.
             url: /
             showIcon: true
             icon: arrowRight
@@ -123,22 +128,26 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: I'm Focused
-        subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        subtitle: Emotional and Physical Support with AI
+        text: >
+          AI takes the stress out of complex processes. If you find the process
+          emotionally deregulating or have difficulty typing, AI does most of
+          the work for you—just ask the right question.
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/DALL·E 2024-08-07 17.38.51 - A serene and modern workspace
+            with a diverse group of individuals using AI tools on laptops and
+            tablets. One person interacts peacefully with an AI as.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
         actions:
           - type: Button
-            label: ''
-            altText: ''
+            label: I'm in
+            altText: >-
+              Stress-Free Assistance - Let AI help you with complex tasks and
+              reduce emotional stress.
             url: /
             showIcon: true
             icon: arrowRight
