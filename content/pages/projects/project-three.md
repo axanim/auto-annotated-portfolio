@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Breaking Down Barriers: Addressing the Broken NDIS Pricing Model'
 colors: colors-a
 date: '2024-07-22'
-client: Awesome client
+client: Policy Advocacy
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
