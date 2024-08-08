@@ -29,7 +29,11 @@ featuredImage:
     workspace is dedicated to providing hands-on experience and practical
     skills, preparing participants for success in the rapidly evolving digital
     economy.
-  caption: ''
+  caption: >-
+    Innovative Collaboration: Our modern tech-focused workspace at Never Limited
+    fosters creativity and teamwork, utilizing advanced tools like AI and VR. We
+    prepare participants for success in the digital economy through hands-on
+    projects and practical skills
   elementId: ''
 media:
   type: ImageBlock
