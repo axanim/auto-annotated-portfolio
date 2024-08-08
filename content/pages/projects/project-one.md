@@ -7,7 +7,10 @@ client: Amazing Axel
 description: Annette sought support for Axel. Axel ended up in hospital.
 featuredImage:
   type: ImageBlock
-  url: /images/axhos.png
+  url: >-
+    /images/DALL·E 2024-08-09 06.36.46 - A poignant scene depicting a hospital
+    room where a teenage boy with Autism and profound intellectual impairment is
+    recovering. His mother stands by hi.jpg
   altText: Project thumbnail image
 ---
 At 13, Axel's journey with the NDIS began with Annette fighting for support for Axel's disabilities - Autism and profound intellectual impairment. His initial plan? A meager $3000, just enough for some reports but no real help. Annette, trying to manage a business, her younger daughter's safety and Axel's needs, faced the heartbreaking decision to relinquish him, thinking the state would provide better care than she could.
