@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: "Access to Technology Transforms the Lives of People with Disabilities \U0001F5C2️"
 colors: colors-a
 date: '2024-06-08'
 excerpt: More context that may or may not be helpful
