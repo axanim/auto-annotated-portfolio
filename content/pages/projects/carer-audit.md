@@ -14,7 +14,12 @@ featuredImage:
     /images/DALL·E 2024-08-09 06.49.13 - A powerful scene depicting a determined
     advocate, Erin, standing confidently in front of a desk covered with legal
     documents. Behind her, a young man,.jpg
-  altText: Project thumbnail image
+  altText: >-
+    A powerful scene depicting Erin, a determined advocate, standing confidently
+    in front of a desk with legal documents. Behind her, Joshua looks relieved
+    and grateful, while his mother shows a mix of relief and gratitude. The
+    background features a busy office environment, symbolizing the intensity and
+    importance of the advocacy work.
   caption: >-
     Erin Brockovich of Advocacy: Erin stands strong and determined, having
     successfully halted an NDIA audit against Joshua's mum. Her relentless
