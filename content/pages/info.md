@@ -120,7 +120,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/axanim/'
         styles:
           self:
             textAlign: left
@@ -136,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/company/never-org-au'
         styles:
           self:
             textAlign: left
@@ -144,15 +144,17 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/team/nevernever'
+            altText: Link to codepen for team nevernever
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Democracy First
+            url: 'https://democracyfirst.org.au/maribyrnong/'
+            altText: Link to Democracy First website
         styles:
           self:
             textAlign: left
@@ -185,7 +187,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'You can find us here:'
   - type: DividerSection
     styles:
       self:
@@ -262,7 +264,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [admin@never.org.au](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -319,6 +321,12 @@ sections:
           *   grad cert software engineering (AI) @ torrens
           *   access performance solutions @ inclusion access
           *   NDIS battles & recovery @ get me out of this loop
+
+          **2020**
+
+          *   diploma of access consulting @ access institute
+
+          *   cert iv in mental health peer work @ breakthru
 
           **2015-2018**
 
