@@ -22,4 +22,4 @@ Axel's first Christmas away from home was spent in the hospital with a serious i
 
 Years of relentless battles have taken their toll, but today, Axel has a $550,000 plan. The fight is far from over as they continue to seek appropriate Specialist Disability Accommodation and the support needed to avoid restrictive practices. Despite the significant pain he endures, their focus remains on creating an environment that minimizes his suffering and maximizes his quality of life.
 
-Axel doesn't process pain like we do, and he can lash out, but we must continues to advocate for Axel's needs, he is our mate and you don't give up on your mates when the going gets tough, instead you get tough on the system.
+Axel doesn't process pain like we do, and he can lash out, but we have Erin advocating for Axel's needs, he is our mate and you don't give up on your mates when the going gets tough, instead you get Erin to get tough on the system.
