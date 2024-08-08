@@ -4,7 +4,9 @@ title: Behaviour of concern OR Pain
 colors: colors-a
 date: '2024-08-08'
 excerpt: >-
-  https://www.painchek.com/use-cases/enabling-best-practice-pain-management-across-the-disability-sector/
+  Those living with a disability who are unable to reliably communicate their
+  pain are one of the most vulnerable groups for undetected or misidentified
+  pain.
 featuredImage:
   type: ImageBlock
   url: /images/1722115719097.jpeg
