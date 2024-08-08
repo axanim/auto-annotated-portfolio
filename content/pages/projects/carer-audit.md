@@ -15,7 +15,10 @@ featuredImage:
     advocate, Erin, standing confidently in front of a desk covered with legal
     documents. Behind her, a young man,.jpg
   altText: Project thumbnail image
-  caption: ''
+  caption: >-
+    Erin Brockovich of Advocacy: Erin stands strong and determined, having
+    successfully halted an NDIA audit against Joshua's mum. Her relentless
+    dedication brings relief and gratitude to the family.
   elementId: ''
 media:
   type: ImageBlock
