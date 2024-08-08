@@ -3,7 +3,8 @@ type: PostLayout
 title: Behaviour of concern OR Pain
 colors: colors-a
 date: '2024-08-08'
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  https://www.painchek.com/use-cases/enabling-best-practice-pain-management-across-the-disability-sector/
 featuredImage:
   type: ImageBlock
   url: /images/1722115719097.jpeg
