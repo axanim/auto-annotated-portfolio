@@ -40,6 +40,7 @@ sections:
       personal information which the organisation collects, holds and
       administers. Personal information is information which directly or
       indirectly identifies a person.
+    title: Never Limited Privacy Policy
   - type: DividerSection
     styles:
       self:
