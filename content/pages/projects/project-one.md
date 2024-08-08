@@ -23,7 +23,11 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
+  altText: >-
+    A hospital room where a teenage boy with Autism and profound intellectual
+    impairment is recovering. His mother stands by his side, determined yet
+    heartbroken. In the background, an advocate fiercely discusses with
+    officials, symbolizing the battle for better support and accommodation.
   caption: Caption of the image
   elementId: ''
 ---
