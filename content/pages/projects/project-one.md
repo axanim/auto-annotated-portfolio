@@ -22,7 +22,10 @@ featuredImage:
     shines through.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: >-
+    /images/DALL·E 2024-08-09 06.36.46 - A poignant scene depicting a hospital
+    room where a teenage boy with Autism and profound intellectual impairment is
+    recovering. His mother stands by hi.jpg
   altText: >-
     A hospital room where a teenage boy with Autism and profound intellectual
     impairment is recovering. His mother stands by his side, determined yet
