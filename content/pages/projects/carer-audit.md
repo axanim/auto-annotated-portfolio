@@ -10,7 +10,10 @@ description: >-
   force in the advocacy arena.
 featuredImage:
   type: ImageBlock
-  url: /images/1722115719097.jpeg
+  url: >-
+    /images/DALL·E 2024-08-09 06.49.13 - A powerful scene depicting a determined
+    advocate, Erin, standing confidently in front of a desk covered with legal
+    documents. Behind her, a young man,.jpg
   altText: >-
     A powerful scene depicting Erin, a determined advocate, standing confidently
     in front of a desk with legal documents. Behind her, Joshua looks relieved
