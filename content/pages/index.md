@@ -97,7 +97,6 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
       - content/pages/blog/a-autism-daignosis.md
     showDate: true
     showExcerpt: true
