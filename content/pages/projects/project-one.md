@@ -12,6 +12,10 @@ featuredImage:
     room where a teenage boy with Autism and profound intellectual impairment is
     recovering. His mother stands by hi.jpg
   altText: Project thumbnail image
+  caption: >-
+    A Battle for Support: Annette's relentless fight for her son Axel's
+    well-being amidst a broken system. Despite the challenges, their resilience
+    shines through.
 ---
 At 13, Axel's journey with the NDIS began with Annette fighting for support for Axel's disabilities - Autism and profound intellectual impairment. His initial plan? A meager $3000, just enough for some reports but no real help. Annette, trying to manage a business, her younger daughter's safety and Axel's needs, faced the heartbreaking decision to relinquish him, thinking the state would provide better care than she could.
 
