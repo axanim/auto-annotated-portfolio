@@ -31,7 +31,12 @@ media:
     /images/DALL·E 2024-08-09 06.49.13 - A powerful scene depicting a determined
     advocate, Erin, standing confidently in front of a desk covered with legal
     documents. Behind her, a young man,.jpg
-  altText: Project image
+  altText: >-
+    A powerful scene depicting Erin, a determined advocate, standing confidently
+    in front of a desk with legal documents. Behind her, Joshua looks relieved
+    and grateful, while his mother shows a mix of relief and gratitude. The
+    background features a busy office environment, symbolizing the intensity and
+    importance of the advocacy work.
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
