@@ -4,8 +4,10 @@ title: 'Erin Brockovich of the Advocacy World: A Triumph for Joshua and His Mum'
 date: '2024-06-23'
 client: Joshua
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  came to Erin in a state of desperation. The NDIA had launched an aggressive
+  audit against his mum, demanding thousands of dollars. The situation was dire,
+  and Joshua needed a hero. Enter Erin, the unstoppable force in the advocacy
+  arena.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
