@@ -322,6 +322,12 @@ sections:
           *   access performance solutions @ inclusion access
           *   NDIS battles & recovery @ get me out of this loop
 
+          **2020**
+
+          *   diploma of access consulting @ access institute
+
+          *   cert iv in mental health peer work @ breakthru
+
           **2015-2018**
 
           *   real estate with tech twist
