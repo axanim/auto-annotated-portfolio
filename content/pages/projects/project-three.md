@@ -17,14 +17,42 @@ featuredImage:
     /images/DALL·E 2024-08-09 06.07.23 - An inclusive community scene where
     diverse individuals with disabilities are actively engaged in various
     activities. Some are using assistive technolo.jpg.jpg
-  altText: Project thumbnail image
+  altText: >-
+    At Never Limited, we believe in the power of community and inclusivity. This
+    image depicts a vibrant and supportive environment where diverse individuals
+    with disabilities are actively engaged in various activities. The scene
+    highlights the use of assistive technologies like wheelchairs and AI-powered
+    devices, enabling participants to fully participate and thrive. Our advocacy
+    banners emphasize our commitment to better NDIS support and fair pricing,
+    ensuring that everyone receives the high-quality care they deserve. This
+    positive and dynamic atmosphere represents our vision of an inclusive
+    society where every individual can achieve their full potential.
+  caption: >-
+    Empowering Inclusivity: At Never Limited, we create vibrant and supportive
+    environments where individuals with disabilities thrive using advanced
+    assistive technologies. Together, we advocate for better NDIS support and
+    fair pricing.
 media:
   type: ImageBlock
   url: >-
     /images/DALL·E 2024-08-09 06.07.23 - An inclusive community scene where
     diverse individuals with disabilities are actively engaged in various
     activities. Some are using assistive technolo.jpg.jpg
-  altText: Project image
+  altText: >-
+    At Never Limited, we believe in the power of community and inclusivity. This
+    image depicts a vibrant and supportive environment where diverse individuals
+    with disabilities are actively engaged in various activities. The scene
+    highlights the use of assistive technologies like wheelchairs and AI-powered
+    devices, enabling participants to fully participate and thrive. Our advocacy
+    banners emphasize our commitment to better NDIS support and fair pricing,
+    ensuring that everyone receives the high-quality care they deserve. This
+    positive and dynamic atmosphere represents our vision of an inclusive
+    society where every individual can achieve their full potential.
+  caption: >-
+    Empowering Inclusivity: At Never Limited, we create vibrant and supportive
+    environments where individuals with disabilities thrive using advanced
+    assistive technologies. Together, we advocate for better NDIS support and
+    fair pricing.
 ---
 **A Flawed System**
 
