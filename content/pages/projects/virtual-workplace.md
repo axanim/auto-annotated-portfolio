@@ -42,7 +42,11 @@ media:
     tech-focused project workspace. The scene features individuals collaborating
     on innovative projects, with diverse teams.jpg
   altText: Project image
-  caption: Caption of the image
+  caption: >-
+    Innovative Collaboration: Our modern tech-focused workspace at Never Limited
+    fosters creativity and teamwork, utilizing advanced tools like AI and VR. We
+    prepare participants for success in the digital economy through hands-on
+    projects and practical skills
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
