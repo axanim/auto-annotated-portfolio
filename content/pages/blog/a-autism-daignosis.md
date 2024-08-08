@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Autism diagnosis - a national emergency.
+title: Autism assessments - a national emergency.
 date: '2024-05-08'
 excerpt: >-
   Using translational neuroscience and technology for personalised medicine and
