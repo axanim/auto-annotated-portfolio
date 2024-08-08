@@ -27,6 +27,11 @@ featuredImage:
     ensuring that everyone receives the high-quality care they deserve. This
     positive and dynamic atmosphere represents our vision of an inclusive
     society where every individual can achieve their full potential.
+  caption: >-
+    Empowering Inclusivity: At Never Limited, we create vibrant and supportive
+    environments where individuals with disabilities thrive using advanced
+    assistive technologies. Together, we advocate for better NDIS support and
+    fair pricing.
 media:
   type: ImageBlock
   url: >-
