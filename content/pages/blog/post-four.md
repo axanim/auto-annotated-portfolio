@@ -2,7 +2,7 @@
 type: PostLayout
 title: Behaviour of concern OR Pain
 colors: colors-a
-date: ''
+date: '2024-08-08'
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
