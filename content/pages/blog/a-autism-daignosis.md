@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: A NATIONAL emergency Bill Shorten NOT a STATE one.
+title: Autism diagnosis - a national emergency.
 date: '2024-08-08'
 excerpt: >-
   Using translational neuroscience and technology for personalised medicine and
