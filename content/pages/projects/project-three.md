@@ -5,9 +5,12 @@ colors: colors-a
 date: '2024-07-22'
 client: Policy Advocacy
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  At Never Limited, we’re dedicated to advocating for the rights and well-being
+  of individuals with disabilities. Our mission is to ensure that everyone,
+  regardless of their abilities, has access to the support they need to thrive.
+  Today, we address a pressing issue that has significant implications for the
+  disability community: the broken pricing model of the National Disability
+  Insurance Scheme (NDIS).
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
