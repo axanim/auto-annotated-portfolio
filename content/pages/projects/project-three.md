@@ -39,6 +39,11 @@ media:
     diverse individuals with disabilities are actively engaged in various
     activities. Some are using assistive technolo.jpg.jpg
   altText: Project image
+  caption: >-
+    Empowering Inclusivity: At Never Limited, we create vibrant and supportive
+    environments where individuals with disabilities thrive using advanced
+    assistive technologies. Together, we advocate for better NDIS support and
+    fair pricing.
 ---
 **A Flawed System**
 
