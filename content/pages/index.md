@@ -100,6 +100,7 @@ sections:
     posts:
       - content/pages/blog/a-autism-daignosis.md
       - content/pages/blog/post-four.md
+      - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
