@@ -37,7 +37,10 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/DALL·E 2024-08-09 06.15.13 - A modern and sleek design of a
+    tech-focused project workspace. The scene features individuals collaborating
+    on innovative projects, with diverse teams.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
