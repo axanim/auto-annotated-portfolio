@@ -101,6 +101,12 @@ bottomSections:
       text:
         textAlign: left
 author: content/data/team/annette-andersen.json
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 My lived experience "behaviour of concern" is all part of the pain experience in someone who cannot cognitively process what pain is.
 
