@@ -17,15 +17,42 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
+**A Flawed System**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+A recent article in[ *The Australian* ](https://www.theaustralian.com.au/nation/politics/calculation-on-ndis-price-totally-broken-say-providers/news-story/9558dddb5754640087176bc1e1878c9f)highlights a critical flaw in the NDIS pricing model. Providers have raised alarms, stating that the current calculation method is "totally broken." This issue is not just a matter of financial logistics; it directly affects the quality of care and services available to NDIS participants.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Providers argue that the pricing model fails to account for the real costs of delivering services. This shortfall means that many providers are struggling to stay afloat, which inevitably impacts the quality and availability of support services. For participants, this translates into reduced access to essential services, longer wait times, and increased stress and uncertainty.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+> “Disability service providers are demanding a $2bn-a-year top-up to fix a major “mathematical error” in how prices are set by the agency...”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**The Impact on Our Community**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+At Never Limited, we see firsthand the struggles that individuals with disabilities face when trying to access the support they need. The broken pricing model exacerbates these challenges. It’s not just about numbers on a balance sheet; it’s about real people facing real hardships.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The current model doesn’t adequately cover the costs of providing high-quality care. This results in many providers being unable to offer the level of service that participants deserve. The impact is felt across the board – from reduced therapy sessions and inadequate support coordination to insufficient funding for essential assistive technologies.
+
+**Our Call to Action**
+
+We believe that every NDIS participant deserves access to the highest quality of care. To achieve this, it’s crucial that the pricing model is re-evaluated and reformed. We call on policymakers to:
+
+1.  **Engage with Providers**: The insights of service providers are invaluable. They understand the true costs and challenges of delivering care. Policymakers must engage with them to develop a pricing model that reflects reality.
+
+2.  **Increase Transparency**: Participants and providers need clear, transparent information about how prices are set and adjusted. This transparency will build trust and ensure that everyone understands the basis for funding decisions.
+
+3.  **Ensure Sustainability**: The NDIS must be sustainable for both participants and providers. This means setting prices that cover the actual costs of care, ensuring that providers can continue to offer high-quality services without financial strain.
+
+**Our Commitment**
+
+At Never Limited, we’re committed to supporting individuals with disabilities through every challenge. We offer a range of services, including AI training programs, self-advocacy tools, educational support, and more. Our goal is to empower participants to navigate the NDIS and access the support they need.
+
+We also stand ready to advocate for necessary changes in the system. We will continue to raise our voices, alongside those of other providers and participants, to push for a fair and functional NDIS pricing model.
+
+**Join Us in Making a Difference**
+
+We invite you to join us in advocating for a fair NDIS. Share your stories, engage with policymakers, and support organizations that are working towards positive change. Together, we can ensure that the NDIS fulfills its promise of providing comprehensive, high-quality support to all Australians with disabilities.
+
+**Stay Connected**
+
+Follow us on [LinkedIn](https://www.linkedin.com/company/never-org-au) to stay updated on our advocacy efforts and learn more about how you can get involved. Your support is crucial in our mission to create a more inclusive and supportive community for everyone.
+
+Together, we can make a difference. Let’s ensure that no one is left behind and that every individual with a disability has the opportunity to thrive.
