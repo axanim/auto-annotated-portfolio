@@ -27,7 +27,10 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/DALL·E 2024-08-09 06.49.13 - A powerful scene depicting a determined
+    advocate, Erin, standing confidently in front of a desk covered with legal
+    documents. Behind her, a young man,.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''
