@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "Sharing my wisdom with the world \U0001F30E"
+title: Behaviour of concern OR Pain
 colors: colors-a
 date: '2024-02-01'
 excerpt: More context that may or may not be helpful
