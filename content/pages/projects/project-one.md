@@ -11,7 +11,11 @@ featuredImage:
     /images/DALL·E 2024-08-09 06.36.46 - A poignant scene depicting a hospital
     room where a teenage boy with Autism and profound intellectual impairment is
     recovering. His mother stands by hi.jpg
-  altText: Project thumbnail image
+  altText: >-
+    A hospital room where a teenage boy with Autism and profound intellectual
+    impairment is recovering. His mother stands by his side, determined yet
+    heartbroken. In the background, an advocate fiercely discusses with
+    officials, symbolizing the battle for better support and accommodation.
   caption: >-
     A Battle for Support: Annette's relentless fight for her son Axel's
     well-being amidst a broken system. Despite the challenges, their resilience
