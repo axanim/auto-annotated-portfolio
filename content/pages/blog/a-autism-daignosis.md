@@ -3,8 +3,8 @@ type: PostLayout
 title: A NATIONAL emergency Bill Shorten NOT a STATE one.
 date: '2024-08-08'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Using translational neuroscience and technology for personalised medicine and
+  impact in child neurodevelopment
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
