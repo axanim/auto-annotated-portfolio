@@ -17,7 +17,10 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: >-
+    /images/DALL·E 2024-08-09 06.07.23 - An inclusive community scene where
+    diverse individuals with disabilities are actively engaged in various
+    activities. Some are using assistive technolo.jpg.jpg
   altText: Project image
 ---
 **A Flawed System**
