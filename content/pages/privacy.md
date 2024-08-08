@@ -35,6 +35,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      IntroductionThe Board of Never Limited is committed to protecting the
+      privacy of personal information which the organisation collects, holds and
+      administers. Personal information is information which directly or
+      indirectly identifies a person.
   - type: DividerSection
     styles:
       self:
