@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Autism diagnosis - a national emergency.
-date: '2024-08-08'
+date: ''
 excerpt: >-
   Using translational neuroscience and technology for personalised medicine and
   impact in child neurodevelopment
