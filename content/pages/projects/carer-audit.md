@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Erin Brockovich of the Advocacy World: A Triumph for Joshua and His Mum'
 date: '2024-06-23'
-client: Awesome client
+client: Joshua
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
