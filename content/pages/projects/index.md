@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Fights
+title: Advocacy
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
