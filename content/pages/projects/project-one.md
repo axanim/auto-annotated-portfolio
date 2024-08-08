@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very nasty system fight
+title: A very nasty system battle
 colors: colors-a
 date: '2024-06-08'
 client: Amazing Axel

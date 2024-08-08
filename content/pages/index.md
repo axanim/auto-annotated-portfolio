@@ -129,7 +129,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got a fight of your own? Tell us more...\U0001F4AC"
+    title: "Got a battle of your own? Tell us more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
