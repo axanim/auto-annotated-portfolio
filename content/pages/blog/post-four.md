@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Behaviour of concern OR Pain
+title: AI Innovation for behaviour of concern
 colors: colors-a
 date: '2024-08-08'
 excerpt: >-
