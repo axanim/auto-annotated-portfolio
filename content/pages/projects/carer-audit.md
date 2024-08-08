@@ -37,7 +37,10 @@ media:
     and grateful, while his mother shows a mix of relief and gratitude. The
     background features a busy office environment, symbolizing the intensity and
     importance of the advocacy work.
-  caption: Caption of the image
+  caption: >-
+    Erin Brockovich of Advocacy: Erin stands strong and determined, having
+    successfully halted an NDIA audit against Joshua's mum. Her relentless
+    dedication brings relief and gratitude to the family.
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
