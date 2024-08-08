@@ -63,6 +63,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/carer-audit.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -98,6 +99,8 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/a-autism-daignosis.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-six.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
