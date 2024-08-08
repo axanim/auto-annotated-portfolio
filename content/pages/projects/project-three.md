@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Breaking Down Barriers: Addressing the Broken NDIS Pricing Model'
 colors: colors-a
-date: '2024-07-22'
+date: '2024-08-09'
 client: Policy Advocacy
 description: >-
   At Never Limited, we’re dedicated to advocating for the rights and well-being
