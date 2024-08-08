@@ -99,6 +99,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/a-autism-daignosis.md
+      - content/pages/blog/post-four.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
