@@ -24,7 +24,7 @@ However, by late 2022, Dylan started feeling the weight of his achievements. The
 
 Imagine juggling mental health recovery and academic pressures, only to have a $30,000+ debt thrown into the mix. It was a heavy burden, one that Dylan carried daily, pushing him to the brink. "I wanted to throw myself in front of a train to escape the debt" he confided in us. But thanks to his supportive partner, Dylan found the strength to keep going.
 
-We weren't about to let this injustice slide. We took Dylan's case to the Administrative Appeals Tribunal, armed with determination and the power of section 1237AAD of the Social Security Act 1991. And guess what? We won! On July 2, 2024, Dylan was finally released from the debt.
+Erin wasn't about to let this injustice slide. Erin took Dylan's case to the Administrative Appeals Tribunal, armed with determination and the power of section 1237AAD of the Social Security Act 1991. And guess what? Centrelink didn't even show once they heard Erin was on the case! We won! On July 2, 2024, Dylan was finally released from the debt.
 
 This journey hasn't been easy, but Dylan's story is a testament to resilience and the power of fighting back against an unjust system. He's not just a survivor; he's a champion, proving that with the right support and determination, we can overcome even the toughest battles.
 
