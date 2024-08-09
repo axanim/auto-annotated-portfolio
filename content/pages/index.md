@@ -64,6 +64,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/carer-audit.md
+      - content/pages/projects/virtual-workplace.md
     styles:
       self:
         height: auto
